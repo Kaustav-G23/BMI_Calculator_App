@@ -9,7 +9,7 @@ The objective of this tutorial is to look at how we can customise Flutter Widget
 
 We’re going to make a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
 
-## What I learned
+## What we will learn
 
 - How to use Flutter themes to create coherent branding. 
 - How to create multi-page apps using Flutter Routes and Navigator.
@@ -22,7 +22,7 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
 
-## Problems faced
+## Difficulties faced
 
 - In handling multiple screens.
 - Customizing the Flutter Widgets and achieving the specific design.
