@@ -35,7 +35,11 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 ## Screenshots of the App
 
 ![B1](https://user-images.githubusercontent.com/84225151/145628847-c8ebc108-146f-4ebc-9da5-01d171ef6296.jpeg)
+
 ![B2](https://user-images.githubusercontent.com/84225151/145628949-feed4e0a-e042-4df2-82a9-d023f23b7bcc.jpeg)
+
 ![B3](https://user-images.githubusercontent.com/84225151/145628959-cc50a29d-5fe4-4300-abb2-f624ef3bf622.jpeg)
+
 ![B4](https://user-images.githubusercontent.com/84225151/145628973-b2c5ab65-b5e8-46b2-ad46-aa6fd1ecfebf.jpeg)
+
 ![B5](https://user-images.githubusercontent.com/84225151/145628984-de115066-c81e-4344-8ce9-8b645c5d5890.jpeg)
