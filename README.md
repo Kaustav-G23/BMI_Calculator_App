@@ -31,3 +31,12 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 ## Conclusion
 
 - Had great fun in building the app. Learned a lot of new things while designing the UI. Learned about new methods, technologies, widgets and implemented them successfully.
+
+## Few Screenshots of the App(Till Date)
+
+![1](https://user-images.githubusercontent.com/84225151/145626895-bc36b853-dfc4-4bf9-82fb-d5442cccbf65.jpeg)
+![2](https://user-images.githubusercontent.com/84225151/145626932-f5771cba-182a-4df9-9e4f-faae082ea883.jpeg)
+![3](https://user-images.githubusercontent.com/84225151/145626968-e5e3bc94-1641-4cc4-aaa4-48802c01222c.jpeg)
+![4](https://user-images.githubusercontent.com/84225151/145626998-43c4a74a-e458-4f3c-91b1-39517699a9cd.jpeg)
+![5](https://user-images.githubusercontent.com/84225151/145627009-ed1f0fd4-5c58-41f4-8f3d-b46cd020c928.jpeg)
+![6](https://user-images.githubusercontent.com/84225151/145627044-b6f98dda-43d3-4d20-ad06-f0274546a65b.jpeg)
